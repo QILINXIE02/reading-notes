@@ -2,7 +2,7 @@
 
 **My Code Fellows reading notes**
 
-**Growth Mindsets mean that I should have mindsets not fixed but rather have a _mentality_ that allow me to gropw when I am struggles with something.**
+**Growth Mindsets mean that I should have mindsets not fixed but rather have a _mentality_ that allow me to grorw when I am struggle with something.**
 
 **3 reminders to yourself of how to keep yourself in a growth mindset** :
 - Stop comparing myself to others. 
