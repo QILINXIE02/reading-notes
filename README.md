@@ -17,9 +17,8 @@ Hi there! My name is Qilin Xie (she/her). It is pronounced Key-Lin. I live in Sa
 [Linkedin](https://www.linkedin.com/in/qilinxie/)**<br>
 **[Github Porfolio](https://github.com/QILINXIE02)**
 
-My favorite quote:
->
-A friend once said, "You can't get so hung up on where you'd rather be that you forget to make the most of where you are." 
+>My favorite quote:
+>>A friend once said, "You can't get so hung up on where you'd rather be that you forget to make the most of where you are." 
 
 ### Thanks for visiting my website!! :) 
 
