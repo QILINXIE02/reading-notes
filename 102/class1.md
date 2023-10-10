@@ -20,8 +20,8 @@ In Markdown, the headings hashtag "#" symbols creat heading for you. The number 
 When making text bold for emphasis, it is best practice to use double asterisks (**) or double underscores (__). 
 You can manually type in **bold text** or __bold text__. Alternatively, use your keyboard shortcut **Control+B** on Window systems.
 
-When making text italicized for emphasis, it is best practice to use single asterisks (*) or single underscores (_). 
-You can manually type in *italicized text* or _italicized text_. Alternatively, use your keyboard shortcut _Control+I_ on Window systems.
+When making text italicized for emphasis, it is best practice to use single asterisks (*) or single underscores (_).
+You can manually type in *italicized text* or _italicized text. Alternatively, use your keyboard shortcut _Control+I_ on Window systems.
 
  ---------------------
 ## **Lesson on creating links**: 

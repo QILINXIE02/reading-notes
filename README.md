@@ -1,18 +1,61 @@
 # reading-notes  
 
-**My Code Fellows reading notes**
+## Qilin Xie's  Code Fellows introduction page
 
-**Growth Mindsets mean that I should have mindsets not fixed but rather have a _mentality_ that allow me to grorw when I am struggle with something.**
-
-**3 reminders to yourself of how to keep yourself in a growth mindset**
-
-- Stop comparing myself to others.
-- Take time out to process information.
-- Never stop trying!
+**This website is about documenting my growth during the Code Fellows classes.**
 
    ----------------------------------
 
-Hi there! My name is Qilin Xie (she/her). It is pronounced Key-Lin. I live in Salem, OR (PDT). I am a Career Center Instructor, and my background is in prek-12 and Higher Education. My computer is Windows 11 Pro 22H2. I am looking forward to learning new skills and network.
+## Table of Contents of 102 
+[First reading note](102/class1.md)
+
+[Second reading note](102/class2.md)
+
+[Third reading note](102/class3.md)
+
+[Fourth reading note](102/class4.md)
+
+[Fifth reading note](102/class5.md)
+
+[Sixth reading note](102/class6.md)
+
+[Seventh reading note](102/class7.md)
+
+[Eighth reading note](102/class8.md)
+
+## Table of Contents of 201
+
+[First reading note](201/class1.md)
+
+[Second reading note](201/class2.md)
+
+[Third reading note](201/class3.md)
+
+[Fourth reading note](201/class4.md)
+
+[Fifth reading note](201/class5.md)
+
+[Sixth reading note](201/class6.md)
+
+[Seventh reading note](201/class7.md)
+
+[Eighth reading note](201/class8.md)
+
+[Nineth reading note](201/class9.md)
+
+[Tenth reading note](201/class10.md)
+
+[Eleventh reading note](201/class811.md)
+
+[Twelve reading note](201/class12.md)
+
+[Thirteen reading note](201/class13.md)
+
+[Foiurteen reading note](201/class14.md)
+
+[Fifteen reading note](201/class15.md)
+
+---------------------------------------------
 
 **Contact info**: **[Work Email](Qxie@gicw.org),
 [Linkedin](https://www.linkedin.com/in/qilinxie/)**<br>
@@ -24,3 +67,6 @@ Hi there! My name is Qilin Xie (she/her). It is pronounced Key-Lin. I live in Sa
 ### Thanks for visiting my website!! :) 
 
 ## ![download](https://github.com/QILINXIE02/reading-notes/assets/146989043/07563cda-a303-49fa-91a5-070164db4af6)
+
+
+updated 10/10/2023 12:55pm PST
