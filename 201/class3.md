@@ -11,3 +11,5 @@
 4. Command to capture a snapshot of altered files: Using git commit -m "Your message" documents modifications along with a detailed commit message.
 
 5. Command to transmit altered files to GitHub: With git push origin <branch-name>, you push the committed changes to a GitHub repository.
+
+2:45pm 10/10
