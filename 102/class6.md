@@ -10,10 +10,10 @@ To declare a variable in JavaScript means to create a named storage location for
 Represented by =; used to assign a value to a variable.
 
 4. Information Received from the User:
-Information received from the user is typically referred to as "user input" or "user-generated data." In JavaScript, you can collect user input using methods like prompt() (which displays a dialog box for textual input), confirm() (for yes/no questions), and alert() (for displaying messages). For example, you can use prompt() to receive data from the user:
+Information received from the user is typically referred to as "user input" or "user-generated data." 
 
-The user is prompted to enter their name, and the input is stored in the userInput variable :
+    The user is prompted to enter their name, and the input is stored in the userInput variable :
 
-let userInput = prompt("Enter your **name:");**
+    let userInput = prompt("Enter your **name:");**
 
 10/11 2023
