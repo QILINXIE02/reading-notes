@@ -1,8 +1,10 @@
 # reading-notes  
 
-## Qilin Xie's  Code Fellows introduction page
+## Qilin Xie's Code Fellows introduction page
 
 **This website is about documenting my growth during the Code Fellows classes.**
+
+Here is [Qilin's Sandwiches shop site](https://qilinxie02.github.io/lab5new/index.html) that I coded using VS code! Please check it out. Thank you very much! :))) 
 
    ----------------------------------
 
@@ -69,5 +71,5 @@
 ## ![download](https://github.com/QILINXIE02/reading-notes/assets/146989043/07563cda-a303-49fa-91a5-070164db4af6)
 
 
-updated 10/10/2023 12:55pm PST
+updated 10/12/2023 3:40pm PST
 
