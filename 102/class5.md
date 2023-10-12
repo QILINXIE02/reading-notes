@@ -1,3 +1,6 @@
+**reading notes #5**
+
+
 ### Style and Presentation: CSS is used to control the visual appearance of web pages. It defines how elements are displayed, such as their colors, fonts, spacing, borders, and positioning.
 
 Consistency: CSS allows for the centralization of style rules, making it easy to maintain a consistent look and feel across multiple pages of a website.
@@ -10,10 +13,8 @@ Inline CSS: You can apply CSS directly to individual HTML elements using the sty
 
 
 <p style="color: red;">This is a red paragraph.</p>
-Internal (Embedded) CSS: You can include CSS rules within a <style> block in the <head> section of an HTML document. This CSS will apply to the entire page. For example:
+Internal (Embedded) CSS: include CSS rules within a style block in the <head> section of an HTML document. This CSS will apply to the entire page. 
 
-html
-Copy code
 <head>
     <style>
         p {
@@ -24,7 +25,7 @@ Copy code
 <body>
     <p>This is a red paragraph.</p>
 </body>
-External CSS: You can create a separate CSS file (with a .css extension) and link it to your HTML documents using the <link> element. For example:
+External CSS: I can create a separate CSS file (with a .css extension) and link it to my HTML documents using the <link> element. For example:
 
 HTML file (index.html):
 

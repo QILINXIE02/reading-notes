@@ -1,4 +1,13 @@
-**reading notes #5**
+**reading notes #6**
+
+
+<head>
+    <style>
+        p {
+            color: blue ;
+        }
+    </style>
+</head>
 
 1. Variables in JavaScript:
 Variables in JavaScript are used to store and manage data within a program. They act as containers that can hold different types of information, such as numbers, text, or objects. Variables provide a way to access, manipulate, and work with data in your code.
