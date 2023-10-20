@@ -69,7 +69,7 @@ JavaScript in the Browser:
 JavaScript is required for tasks like form validation and interactive elements on web pages, such as image sliders or interactive forms.
 
 Adding JavaScript to HTML:
-JavaScript can be added to an HTML document within <script> tags either in the <head> or at the end of the <body>.
+JavaScript can be added to an HTML document within the script tags either in the <head> or at the end of the <body>.
 
 
 
