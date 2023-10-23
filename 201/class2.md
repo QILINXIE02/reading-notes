@@ -61,6 +61,8 @@ Three different types of comparison operators in JavaScript are:
 The logical operator && (logical AND) returns true if both of its operands are true. The logical operator || (logical OR) returns true if at least one of its operands is true. They are used to combine conditions and make decisions in your code.
 
 -----------------------------
-
+## Things I want to know more about:
+1. How to effectively design a website.
+2. Practical more of CSS stylings and JavaScript in the browser.
 
 10/23/2023
