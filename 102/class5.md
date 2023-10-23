@@ -49,4 +49,4 @@ css code:
 p {
     color: red;
 }
-This CSS rule will make the text color of all <p> elements within the HTML document red. It does so by selecting all <p> elements and setting their text color property (color) to the value "red."
+This CSS rule will make the text color of all `<p>` elements within the HTML document red. It does so by selecting all `<p> `elements and setting their text color property (color) to the value "red."

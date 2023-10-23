@@ -7,16 +7,16 @@ Read: class 2
 
 2. There are six levels of headings in HTML, h1 tag is the highest level heading, and h6 tag is the lowest.
 
-3. The <sup> SUP & <sub> sub elements are used for superscript and subscript text, respectively. Some common uses include mathematical notations, footnotes, chemical formulas, and trademark symbols.
+3. The `<sup>` & `<sub>` sub elements are used for superscript and subscript text, respectively. Some common uses include mathematical notations, footnotes, chemical formulas, and trademark symbols.
 
-4. When using the <abbr> abbr element, the 'title' attribute to provide the full expansion of the term, which is often displayed as a tooltip when a user hovers over the abbreviated text.
+4. When using the ` <abbr> `abbr element, the 'title' attribute to provide the full expansion of the term, which is often displayed as a tooltip when a user hovers over the abbreviated text.
 
 
 ## 2. Applying CSS to HTML using various methods:
 
-1. External CSS: Link an external CSS file to your HTML document using the <link> element.
+1. External CSS: Link an external CSS file to your HTML document using the ` <link> ` element.
 
-    Internal CSS: Use the style tag within the HTML document's <head> section.
+    Internal CSS: Use the style tag within the HTML document's `<head>` section.
 
     Inline CSS: Apply styles directly to individual HTML elements using the style attribute.
 

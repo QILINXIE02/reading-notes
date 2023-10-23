@@ -39,10 +39,10 @@ HTML Attributes:
 HTML attributes are additional information added to HTML elements to provide extra details or functionality. They are written as name-value pairs within an element's opening tag.
 
 Anatomy of an HTML Element:
-An HTML element consists of an opening tag, content, and a closing tag. For example: <p> This is a paragraph. </p>
+An HTML element consists of an opening tag, content, and a closing tag. For example:` <p>` This is a paragraph. `</p>`
 
-<article> vs. <section>:
-<article> is used for self-contained, independent content (like a news article), while <section> is used for grouping related content within a document.
+`<article>`  vs. `<section>` :
+`<article>` is used for self-contained, independent content (like a news article), while `<section>` is used for grouping related content within a document.
 
 Typical Website Elements:
 A typical website includes elements like headings, paragraphs, images, links, navigation menus, forms, and more.
@@ -50,8 +50,8 @@ A typical website includes elements like headings, paragraphs, images, links, na
 Metadata and SEO:
 Metadata influences Search Engine Optimization (SEO) by providing information about the content of a web page, helping search engines understand and rank the page.
 
-<meta> Tag for Metadata:
-The <meta> HTML tag is used to specify metadata, such as character encoding, viewport settings, and descriptions, in the <head> of an HTML document.
+`<meta>` Tag for Metadata:
+The `<meta>` HTML tag is used to specify metadata, such as character encoding, viewport settings, and descriptions, in the `<head> `of an HTML document.
 
 Starting Website Design:
 The first step in designing a website is to define the purpose, target audience, and goals of the site.
@@ -59,8 +59,8 @@ The first step in designing a website is to define the purpose, target audience,
 Important Website Design Question:
 The most important question to answer when designing a website is, "What do you want to achieve with this website?"
 
-Using h1 heading over the <span> tag:
-The h1 heading is used for top-level headings because it carries semantic meaning, aiding accessibility and SEO. <span> is a generic inline element.
+Using h1 heading over the `<span>` tag:
+The h1 heading is used for top-level headings because it carries semantic meaning, aiding accessibility and SEO. `<span>` is a generic inline element.
 
 Benefits of Semantic Tags:
 Using semantic HTML tags improves website accessibility, SEO, and makes the code more understandable and maintainable.
@@ -69,7 +69,7 @@ JavaScript in the Browser:
 JavaScript is required for tasks like form validation and interactive elements on web pages, such as image sliders or interactive forms.
 
 Adding JavaScript to HTML:
-JavaScript can be added to an HTML document within the script tags either in the <head> or at the end of the <body>.
+JavaScript can be added to an HTML document within the script tags either in the `<head>` or at the end of the `<body>`.
 
 
 
