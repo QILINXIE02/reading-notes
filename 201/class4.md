@@ -1,7 +1,7 @@
 ## Learn HTML - Creating Hyperlinks
 
 
-To create a basic link, we wrap text or other content inside the <a> element.
+To create a basic link, we wrap text or other content inside the `<a>` element.
 
 The href attribute contains the URL (Uniform Resource Locator) or web address to which the link points. It specifies the destination of the link.
 
@@ -18,8 +18,8 @@ CSS Layout - Normal Flow and Positioning
 
 Differences between block-level and inline elements:
 
-Block-level elements start on a new line and take up the full width of their parent container (e.g., <div>, <p>).
-Inline elements do not start on a new line and only take up as much width as necessary (e.g., <span>, <a>).
+Block-level elements start on a new line and take up the full width of their parent container (e.g., `<div>`, `<p>`).
+Inline elements do not start on a new line and only take up as much width as necessary (e.g., `<span>`, `<a>`).
 "Static" positioning is the default for every HTML element. Elements with static positioning are placed in the normal flow of the document and are not affected by top, right, bottom, or left properties.
 
 Advantages of using absolute positioning:
