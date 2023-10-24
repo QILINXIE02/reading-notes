@@ -88,6 +88,8 @@ Use of a Loop in JavaScript:
 
 
 ## Things I want to know more about:
-How to effectively design a website.
-Practical more of CSS stylings and JavaScript in the browser.
-10/23/2023
+- How to do order and unorder list on another language.
+
+- learn about advanced padding and margin
+
+10/24/2023
