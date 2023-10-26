@@ -1,25 +1,24 @@
 # HTML Media
 1. What is a real-world use case for the alt attribute being used in a website?
 
-    The alt attribute in HTML is used to provide alternative text for an image. A real-world use case would be for accessibility. When a website visitor is visually impaired or the image fails to load, the alternative text provides a description of the image, ensuring that all users can understand the content.
-    2. How can you improve accessibility of images in an HTML document?
+     The alt attribute in HTML is used to provide alternative text for an image. A real-world use case would be for accessibility. When a website visitor is visually impaired or the image fails to load, the alternative text provides a description of the image, ensuring that all users can understand the content.
+
+2. How can you improve accessibility of images in an HTML document?
 
     To improve accessibility, you can:
     Use the alt attribute to describe images.
     Provide descriptive captions or labels for complex images using the figcaption element.
-    Use proper image formats and compression techniques to optimize load times.
-    Implement responsive design for images to ensure they adapt to different screen sizes.
 
 3. Provide an example of when the figure element would be useful in an HTML document.
 
-The `<figure>` element is useful when you want to associate an image or multimedia content with a caption or description. For example, you could use it to display a photo with a caption, an embedded video with a description, or a diagram with an explanation.
+    The `<figure>` element is useful when you want to associate an image or multimedia content with a caption or description. For example, you could use it to display a photo with a caption, an embedded video with a description, or a diagram with an explanation.
 4. Describe the difference between a gif image and an svg image, pretending to explain to an elder in your community.
 
-A GIF image is like a flipbook; it's a sequence of pictures that create a simple animation, like a cartoon. It's good for things like funny moving pictures or small animations on a webpage.
+    A GIF image is like a flipbook; it's a sequence of pictures that create a simple animation, like a cartoon. It's good for things like funny moving pictures or small animations on a webpage.
 SVG is more like a digital drawing. It's made of lines and shapes, and it can be scaled up or down without getting blurry. It's great for logos and icons because they stay sharp no matter how big or small they are.
 5. What image type would you use to display a screenshot on your website and why?
 
-For screenshots, you'd typically use PNG or JPEG image formats. Use PNG for screenshots that need transparency or crisp text, and use JPEG for high-quality screenshots with many colors. JPEG is better for photographs, while PNG is better for images with sharp edges and text.
+    For screenshots, you'd typically use PNG or JPEG image formats. JPEG is better for photographs, while PNG is better for images with sharp edges and text.
 
 
 # Learn CSS
@@ -43,10 +42,9 @@ For screenshots, you'd typically use PNG or JPEG image formats. Use PNG for scre
 
 5. Describe two ways you could add spacing around the characters displayed in an h1 element.
 
-You can add spacing by adjusting the letter-spacing property in CSS to increase or decrease the space between characters. You can also use the margin and padding properties to create space around the entire `<h1> `element, which indirectly affects character spacing.
+    To add spacing around the characters in an h1 element, you can use CSS properties. One way is by adjusting the margins using the margin property, which creates space around the h1 element. For example, margin: 20px; adds 20 pixels of spacing on all sides of the h1 element, creating equal spacing. Another option is to use the padding property, which adds space within the h1 element itself. For instance, padding: 10px; pushes the text away from the element's border, effectively adding space around the characters in the h1 element.
 
 
 ## Things I want to know more about:
-How to effectively design a website.
-Practical more of CSS stylings and JavaScript in the browser.
-10/23/2023
+-ways to make website accessible
+-fun ways to display images
