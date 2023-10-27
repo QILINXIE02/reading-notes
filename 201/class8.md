@@ -11,10 +11,11 @@
 
 # CSS Layout - Flexbox
 
-## Read up to "Flex-Flow Shorthand"
-
 ## What are some advantages of using flexbox over float?
 - Flexbox provides more precise and predictable control over the layout of elements compared to floats. It eliminates the need for clearing floats and simplifies complex layout tasks. Flexbox is also well-suited for aligning elements vertically and handling various screen sizes and devices, making it more responsive.
 
-## How does this topic connect with your long-term goals? Make a section in your notes titled ## Things I want to know more about.
-- As a web developer, mastering CSS layout techniques like Flexbox is essential for creating responsive and accessible web interfaces. This knowledge aligns with my long-term goal of becoming a proficient front-end developer and delivering user-friendly web experiences. In the ## Things I want to know more about section, I will explore advanced Flexbox techniques, responsive design, and accessibility best practices.
+## My long-term goals? 
+- As a web developer, mastering CSS layout techniques like Flexbox is essential for creating responsive and accessible web interfaces. This knowledge aligns w/ my long-term goal of delivering user-friendly web experiences. 
+
+## Things I want to know more about:
+ - explore advanced Flexbox techniques, responsive design, and accessibility best practices.

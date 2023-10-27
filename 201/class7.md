@@ -28,11 +28,11 @@ Using HTML tables for page layouts is discouraged because it goes against the pr
 
 Three semantic HTML elements used in an HTML `<table>` are:
 
-1. `<caption>`: This element provides a brief description or title for the table, making it easier for screen readers and users to understand the table's purpose.
+1. `<caption>`: provides a brief description or title for the table, making it easier for screen readers and users to understand the table's purpose.
 
-2. `<thead>`: It defines the header section of the table and typically contains column labels (e.g., `<th>` elements). This helps screen readers understand the structure of the table.
+2. `<thead>`: defines the header section of the table and typically contains column labels (e.g., `<th>` elements). This helps screen readers understand the structure of the table.
 
-3. `<tbody>`: This element groups the main content of the table, separating it from the header. It improves accessibility and makes it easier to style the table's data independently.
+3. `<tbody>`: groups the main content of the table, separating it from the header. It improves accessibility and makes it easier to style the table's data independently.
 
 # Introducing Constructors
 
@@ -46,27 +46,17 @@ A constructor is a special function in object-oriented programming used to creat
 
 3. **Encapsulation:** Constructors can be used to encapsulate the initialization process and hide implementation details, promoting clean and maintainable code.
 
-**Difference in "this" for object literals vs. constructors:**
+**Difference in `this` for object literals vs. constructors:**
 
-In an object literal, "this" refers to the current object being defined. In a constructor function, "this" refers to the newly created object instance. The "this" keyword is used to access and assign properties and methods to the object under construction in both cases.
+In an object literal, `this` refers to the current object being defined. In a constructor function, `this` refers to the newly created object instance. The `this` keyword is used to access and assign properties and methods to the object under construction in both cases.
 
 # Object Prototypes Using a Constructor
 
 **Prototypes and Inheritance analogy:**
 
-In my previous work experience as a bookshop manager, I can relate prototypes and inheritance to the concept of book categories and subcategories. Imagine the bookshop as a constructor function, and each book category (e.g., fiction, non-fiction) as a prototype.
+In my previous work experience as a tutor. Prototypes in JavaScript are like a "Teaching Template" that contains general teaching methods and materials used for various subjects.
 
-- The "fiction" prototype contains common properties and methods shared among all fiction books, like the genre, author, and a summary.
-
-- Each specific book (e.g., "To Kill a Mockingbird") is an instance created from the "fiction" prototype, inheriting its properties and methods.
-
-- Subcategories (e.g., "mystery" within "fiction") can have their own prototypes, inheriting properties from the broader category (e.g., "fiction").
-
-This inheritance structure allows for efficient organization and reusability of properties and methods, mirroring how prototypes and inheritance work in JavaScript.
+Inheritance is when different subjects, such as Mathematics, History, and Science, inherit the general teaching materials and methods from the "Teaching Template" (prototype). They also add their own subject-specific content. This is similar to objects in JavaScript inheriting properties and methods from a prototype while adding their unique properties and methods.
 
 ## Things I want to know more about:
-
-- Further details on advanced JavaScript concepts, such as closures, promises, and async/await.
-- Best practices for responsive web design and CSS frameworks.
-- Strategies for optimizing website performance and SEO.
-- The latest trends and developments in front-end web development, including new technologies and tools.
+1. How can tables be more accessible when it comes to web development in the future
