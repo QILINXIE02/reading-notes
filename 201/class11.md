@@ -65,13 +65,10 @@ Developers should make images responsive for several reasons:
 `sizes`: This attribute specifies the sizes of the image element concerning the viewport width. It helps the browser determine which image source to fetch. Example:
     <img src="small.jpg" alt="Small Image" srcset="small.jpg 300w, medium.jpg 600w, large.jpg 1200w" sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 33vw">
 
-`srcset` vs. CSS/JavaScript
-`srcset` is more helpful for responsive images because it allows the browser to make intelligent decisions about which image to load based on the user's device and viewport size without relying on additional CSS or JavaScript code. This reduces the complexity of your code and ensures optimal performance and user experience across a variety of devices and screen sizes.
+`srcset` vs. CSS/JavaScript `srcset` is more helpful for responsive images because it allows the browser to make intelligent decisions about which image to load based on the user's device and viewport size without relying on additional CSS or JavaScript code. This reduces the complexity of your code and ensures optimal performance and user experience across a variety of devices and screen sizes.
 
 
 ## Things I want to know more about:
-Artificial Intelligence in web development.
-Progressive Web Apps (PWAs) and their benefits.
-The latest advancements in front-end web development frameworks.
-Best practices for optimizing web performance and loading times.
-The impact of emerging web technologies on the future of web development.
+- Artificial Intelligence in web development.
+- Progressive Web Apps and their benefits.
+-Best practices for optimizing web performance and loading times.
