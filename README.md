@@ -9,7 +9,7 @@ Here is [About Qilin site](https://qilinxie02.github.io/repo-new/index.html)
 
 Here is [Qilin's Sandwiches shop site](https://qilinxie02.github.io/lab5new/cookieshopmaterials/index.html)
 
- I coded them using VS code! Please check it out. Thank you very much! :)))  
+ I coded them using VS code! Please check it out. Thank you very much! :)
 
    ----------------------------------
 
@@ -58,9 +58,9 @@ Here is [Qilin's Sandwiches shop site](https://qilinxie02.github.io/lab5new/cook
 
 [Thirteen reading note](201/class13.md)
 
-[Foiurteen reading note](201/class14.md)
+[Fourteen reading note](201/class14.md)
 
-[Fifteen reading note](201/class15.md)
+[Fourteen #2 reading note](201/class15.md)
 
 ---------------------------------------------
 
@@ -76,5 +76,5 @@ Here is [Qilin's Sandwiches shop site](https://qilinxie02.github.io/lab5new/cook
 ## ![download](https://github.com/QILINXIE02/reading-notes/assets/146989043/07563cda-a303-49fa-91a5-070164db4af6)
 
 
-updated 10/25/2023 1:42pm PST
+updated 11/6/2023 9:22pm PST
 
