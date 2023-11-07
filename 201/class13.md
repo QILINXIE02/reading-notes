@@ -34,4 +34,3 @@ localStorage.setItem('myData', JSON.stringify(data));
 - How does local storage compare to other client-side storage options like cookies and session storage?
 - Are there any security considerations when using local storage for sensitive data?
 - What are the storage limits of local storage in different web browsers?
-- How can I manage data expiration or automatic data cleanup in local storage?
