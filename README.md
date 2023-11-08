@@ -52,7 +52,7 @@ Here is [Qilin's Sandwiches shop site](https://qilinxie02.github.io/lab5new/cook
 
 [Tenth reading note](201/class10.md)
 
-[Eleventh reading note](201/class811.md)
+[Eleventh reading note](201/class11.md)
 
 [Twelve reading note](201/class12.md)
 
@@ -60,11 +60,11 @@ Here is [Qilin's Sandwiches shop site](https://qilinxie02.github.io/lab5new/cook
 
 [Fourteen reading note](201/class14.md)
 
-[Fourteen #2 reading note](201/class15.md)
+[Fourteen #2 reading note](201/Class14:Psychological-Safety.md)
 
 ---------------------------------------------
 
-**Contact info**: **[Work Email](Qxie@gicw.org),
+**Contact info**:
 [Linkedin](https://www.linkedin.com/in/qilinxie/)**<br>
 **[Github Porfolio](https://github.com/QILINXIE02)**
 
@@ -76,5 +76,5 @@ Here is [Qilin's Sandwiches shop site](https://qilinxie02.github.io/lab5new/cook
 ## ![download](https://github.com/QILINXIE02/reading-notes/assets/146989043/07563cda-a303-49fa-91a5-070164db4af6)
 
 
-updated 11/6/2023 9:22pm PST
+updated 11/8/2023 8:44am PST
 
