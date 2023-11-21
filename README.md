@@ -15,7 +15,7 @@ I use VS Code. Please check it out. Thank you very much! :)
 
 ----------------------------------
 
-## Table of Contents of 102 
+## Table of Contents of Code 102: Intro to Software Development
 - [First Reading Note](102/class1.md)
 - [Second Reading Note](102/class2.md)
 - [Third Reading Note](102/class3.md)
@@ -25,7 +25,7 @@ I use VS Code. Please check it out. Thank you very much! :)
 - [Seventh Reading Note](102/class7.md)
 - [Eighth Reading Note](102/class8.md)
 
-## Table of Contents of 201
+## Table of Contents of Code 201: Foundations of Software Development
 - [First Reading Note](201/class1.md)
 - [Second Reading Note](201/class2.md)
 - [Third Reading Note](201/class3.md)
@@ -42,7 +42,7 @@ I use VS Code. Please check it out. Thank you very much! :)
 - [Fourteenth Reading Note](201/class14.md)
 - [Fourteenth #2 Reading Note](201/Class14:Psychological-Safety.md)
 
-## Table of Contents of 301 
+## Table of Contents of Code 301 - Intermediate Software Development
 - [First Reading Note](301/class1.md)
 - [Second Reading Note](301/class2.md)
 - [Third Reading Note](301/class3.md)
@@ -53,6 +53,18 @@ I use VS Code. Please check it out. Thank you very much! :)
 - [Eighth Reading Note](301/class8.md)
 - [Ninth Reading Note](301/class9.md)
 - [Tenth Reading Note](301/class10.md)
+
+## Table of Contents of Code 401 - Advanced Software Development
+- [First Reading Note](401/class1.md)
+- [Second Reading Note](401/class2.md)
+- [Third Reading Note](401/class3.md)
+- [Fourth Reading Note](401/class4.md)
+- [Fifth Reading Note](401/class5.md)
+- [Sixth Reading Note](401/class6.md)
+- [Seventh Reading Note](401/class7.md)
+- [Eighth Reading Note](401/class8.md)
+- [Ninth Reading Note](401/class9.md)
+- [Tenth Reading Note](401/class10.md)
 
 --------------------------------------
 **Contact Info**:
