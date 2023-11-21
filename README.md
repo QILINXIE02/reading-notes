@@ -42,8 +42,19 @@ I use VS Code. Please check it out. Thank you very much! :)
 - [Fourteenth Reading Note](201/class14.md)
 - [Fourteenth #2 Reading Note](201/Class14:Psychological-Safety.md)
 
----------------------------------------------
+## Table of Contents of 301 
+- [First Reading Note](301/class1.md)
+- [Second Reading Note](301/class2.md)
+- [Third Reading Note](301/class3.md)
+- [Fourth Reading Note](301/class4.md)
+- [Fifth Reading Note](301/class5.md)
+- [Sixth Reading Note](301/class6.md)
+- [Seventh Reading Note](301/class7.md)
+- [Eighth Reading Note](301/class8.md)
+- [Ninth Reading Note](301/class9.md)
+- [Tenth Reading Note](301/class10.md)
 
+--------------------------------------
 **Contact Info**:
 - [Linkedin](https://www.linkedin.com/in/qilinxie/)
 - [Github Portfolio](https://github.com/QILINXIE02)
@@ -55,4 +66,4 @@ I use VS Code. Please check it out. Thank you very much! :)
 
 ## ![Download](https://github.com/QILINXIE02/reading-notes/assets/146989043/07563cda-a303-49fa-91a5-070164db4af6)
 
-Updated 11/14/2023 8:20 am PST
+Updated 11/21/2023 10:52am PST
