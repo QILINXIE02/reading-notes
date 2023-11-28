@@ -10,6 +10,7 @@ This website documents my growth during the Code Fellows Software Development pr
 - [Chocolate Pizza Wireframe Practice](https://qilinxie02.github.io/wireframe-exercise/index.html)
 - [Odd Duck Voting Site](https://qilinxie02.github.io/odd-duck/index.html)
 - Team Quicm's Latest Project - [Tea Explorer](https://team-quicm.github.io/Tea-Explorer/teas.html)
+Here is the page I focused on [the Learn More page on Tea Explorer](https://qilinxie02.github.io/learnmore-tea/index.html)
 
 I use VS Code. Please check it out. Thank you very much! :)
 
@@ -78,4 +79,4 @@ I use VS Code. Please check it out. Thank you very much! :)
 
 ## ![Download](https://github.com/QILINXIE02/reading-notes/assets/146989043/07563cda-a303-49fa-91a5-070164db4af6)
 
-Updated 11/21/2023 10:52am PST
+Updated 11/28/2023 2:34am PST
