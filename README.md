@@ -7,9 +7,9 @@ This website documents my growth during the Code Fellows Software Development pr
 - [About Qilin Site](https://qilinxie02.github.io/repo-new/index.html)
 - [Qilin's Resume with Timeline](https://qilinxie02.github.io/resume-timeline/)
 - [Qilin's occupation split landing page](https://qilinxie02.github.io/resume/)
-[Income and Expenses Tracker](https://qilinxie02.github.io/funnize/)
+- [Income and Expenses Tracker](https://qilinxie02.github.io/funnize/)
 - Team Quicm's Latest Project - [Tea Explorer](https://team-quicm.github.io/Tea-Explorer/teas.html)
-Here is the page I focused on [Qilin's Learn More page on Tea Explorer](https://qilinxie02.github.io/learnmore-tea/index.html)
+- Here is the page I focused on [Qilin's Learn More page on Tea Explorer](https://qilinxie02.github.io/learnmore-tea/index.html)
 - [Sandwiches Shop Site](https://qilinxie02.github.io/lab5new/cookieshopmaterials/index.html)
 - [Salmon Cookie Stand Site](https://qilinxie02.github.io/cookie-stand/index.html) and [Its Sales Data](https://qilinxie02.github.io/cookie-stand/sales.html)
 - [Chocolate Pizza Wireframe Practice](https://qilinxie02.github.io/wireframe-exercise/index.html)
@@ -83,4 +83,7 @@ I use VS Code. Please check it out. Thank you very much! :)
 
 ## ![Download](https://github.com/QILINXIE02/reading-notes/assets/146989043/07563cda-a303-49fa-91a5-070164db4af6)
 
-Updated 12/12/2023 4:17pm PST
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="qilinxie" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qilinxie?trk=profile-badge">Qilin Xie</a></div>
+              
+
+Updated 12/19/2023 8:25am PST
