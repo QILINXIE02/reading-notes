@@ -16,10 +16,12 @@ This website documents my growth during the Code Fellows Software Development pr
 - [Odd Duck Voting Site](https://qilinxie02.github.io/odd-duck/index.html)
 - [Gallery of Horns -Netlify page](https://main--qilin-qallery-of-horns.netlify.app/)
 - [Qilin's portfolio with React - Netlify page](https://main--qilin-react-portfolio.netlify.app/)
-- [City Explorer - lab6](https://city-explorer-class6.netlify.app/)
+- [City Explorer with Geo map - lab6, week2 day1](https://city-explorer-class6.netlify.app/)
+- [GeoQuester scavenger hunt app client](https://main--geo-quester.netlify.app/)
+- [GeoQuester scavenger hunt app backend](https://backend-qdhy.onrender.com/lists)
 
 
-I use VS Code. Please check it out. Thank you very much! :)
+I use VS Code. Please check them out. Thank you very much! :)
 
 ----------------------------------
 
@@ -69,7 +71,9 @@ I use VS Code. Please check it out. Thank you very much! :)
 
 
 
-## Table of Contents of Code 401 - Advanced Software Development (Python)
+## Table of Contents of Code 401 - Advanced Software Development (Full Stack JS)
+- [SQL-pratice doc](401/SQL-pratice)
+- [Command-line-prepwork doc](401/Command-line-prepwork)
 - [First Reading Note](401/class1.md)
 - [Second Reading Note](401/class2.md)
 - [Third Reading Note](401/class3.md)
@@ -101,4 +105,4 @@ I use VS Code. Please check it out. Thank you very much! :)
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="qilinxie" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qilinxie?trk=profile-badge">Qilin Xie</a></div>
               
 
-Updated 4/2/2024 8:41am PST
+Updated 4/24/2024 11:30 PST
