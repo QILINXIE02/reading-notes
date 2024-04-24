@@ -72,8 +72,8 @@ I use VS Code. Please check them out. Thank you very much! :)
 
 
 ## Table of Contents of Code 401 - Advanced Software Development (Full Stack JS)
-- [SQL-pratice doc](401/SQL-pratice)
-- [Command-line-prepwork doc](401/Command-line-prepwork)
+- [SQL-pratice doc](401/SQL-pratice.md)
+- [Command-line-prepwork doc](401/Command-line-prepwork.md)
 - [First Reading Note](401/class1.md)
 - [Second Reading Note](401/class2.md)
 - [Third Reading Note](401/class3.md)
