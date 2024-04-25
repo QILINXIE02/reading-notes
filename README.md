@@ -92,6 +92,28 @@ I use VS Code. Please check them out. Thank you very much! :)
 - [Thirteen Reading Note](401/class13.md)
 - [Fourteenth Reading Note](401/class14.md)
 - [Fifteenth Reading Note](401/class15.md)
+- [Sixteenth Reading Note](401/class16.md)
+- [Seventeenth Reading Note](401/class17.md)
+- [Eighteenth Reading Note](401/class18.md)
+- [Nineteenth Reading Note](401/class19.md)
+- [Twenty-Sixth Reading Note](401/class26.md)
+- [Twenty-Seventh Reading Note](401/class27.md)
+- [Twenty-Eighth Reading Note](401/class28.md)
+- [Twenty-Ninth Reading Note](401/class29.md)
+- [Thirtieth Reading Note](401/class30.md)
+- [Thirty-First Reading Note](401/class31.md)
+- [Thirty-Second Reading Note](401/class32.md)
+- [Thirty-Third Reading Note](401/class33.md)
+- [Thirty-Fourth Reading Note](401/class34.md)
+- [Thirty-Fifth Reading Note](401/class35.md)
+- [Thirty-Sixth Reading Note](401/class36.md)
+- [Thirty-Seventh Reading Note](401/class37.md)
+- [Thirty-Eighth Reading Note](401/class38.md)
+- [Thirty-Ninth Reading Note](401/class39.md)
+- [Forty-First Reading Note](401/class41.md)
+- [Forty-Second Reading Note](401/class42.md)
+- [Forty-Third Reading Note](401/class43.md)
+- [Forty-Fourth Reading Note](401/class44.md)
 
 --------------------------------------
 **Contact Info**:
@@ -108,4 +130,4 @@ I use VS Code. Please check them out. Thank you very much! :)
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="qilinxie" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qilinxie?trk=profile-badge">Qilin Xie</a></div>
               
 
-Updated 4/24/2024 11:30 PST
+Updated 4/25/2024 2pmPST
