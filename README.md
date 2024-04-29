@@ -1,6 +1,4 @@
-# Reading Notes
-
-## Qilin Xie's Code Fellows Introduction Page
+# Qilin Xie's Code Fellows Introduction Page
 
 This website documents my growth during the Code Fellows Software Development program. 
 
@@ -15,7 +13,7 @@ This website documents my growth during the Code Fellows Software Development pr
 - [Gallery of Horns -Netlify page](https://main--qilin-qallery-of-horns.netlify.app/)
 - [Qilin's portfolio with React - Netlify page](https://main--qilin-react-portfolio.netlify.app/)
 - [City Explorer with Geo map - lab6, week2 day1](https://city-explorer-class6.netlify.app/)
-- 301 Group project: [GeoQuester scavenger hunt app client](https://main--geo-quester.netlify.app/) and [server](https://backend-qdhy.onrender.com/lists)
+- 301 Group project: [GeoQuester scavenger hunt app](https://main--geo-quester.netlify.app/) and [server](https://backend-qdhy.onrender.com/lists)
 
 ----------------------------------
 ## Table of Contents of Code 401 - Advanced Software Development (Full Stack JS)
@@ -128,16 +126,14 @@ Prep reading assignments:
 --------------------------------------
 **Contact Info**:
 - [Linkedin](https://www.linkedin.com/in/qilinxie/)
-- [Github Portfolio](https://github.com/QILINXIE02)
+- [Github](https://github.com/QILINXIE02)
 
 >My favorite quote:
 >>A friend once said, "You can't get so hung up on where you'd rather be that you forget to make the most of where you are."
-
-### Thanks for visiting my website!! :) 
 
 ## ![Download](https://github.com/QILINXIE02/reading-notes/assets/146989043/07563cda-a303-49fa-91a5-070164db4af6)
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="qilinxie" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qilinxie?trk=profile-badge">Qilin Xie</a></div>
               
 
-Updated 4/29/2024 8:24 am PST
+Updated 4/29/2024 8:40 am PST
