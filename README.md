@@ -1,20 +1,35 @@
 # Qilin Xie's Code Fellows Introduction Page
 
-This website documents my growth during the Code Fellows Software Development program. 
+This website documents my growth during the Code Fellows Software Development program. (Oct 2023 - July 2024).
 
+--------------------------------------
+[DSA -Data Structures and Algorithms Javascript](https://github.com/QILINXIE02/data-structures-and-algorithms)
+--------------------------------------
+### Personal site: 
 - [About Qilin Site](https://qilinxie02.github.io/repo-new/index.html), [Qilin's Resume with Timeline](https://qilinxie02.github.io/resume-timeline/)
 - [Qilin's occupation split landing page](https://qilinxie02.github.io/resume/)
 - [Income and Expenses Tracker](https://qilinxie02.github.io/funnize/)
-- ["Tea Explorer" team project](https://team-quicm.github.io/Tea-Explorer/teas.html) and [Qilin's Learn More page](https://qilinxie02.github.io/learnmore-tea/index.html)
+
+### 201 project:
+- ["Tea Explorer" team project](https://team-quicm.github.io/Tea-Explorer/teas.html) & [Qilin's Learn More page](https://qilinxie02.github.io/learnmore-tea/index.html)
 - [Sandwiches Shop Site](https://qilinxie02.github.io/lab5new/cookieshopmaterials/index.html)
-- [Salmon Cookie Stand Site](https://qilinxie02.github.io/cookie-stand/index.html) and [Its Sales Data](https://qilinxie02.github.io/cookie-stand/sales.html)
+- [Salmon Cookie Stand Site](https://qilinxie02.github.io/cookie-stand/index.html) & [Its Sales Data](https://qilinxie02.github.io/cookie-stand/sales.html)
 - [Chocolate Pizza Wireframe Practice](https://qilinxie02.github.io/Chocolate-Pizza/)
 - [Odd Duck Voting Site](https://qilinxie02.github.io/odd-duck/index.html)
+
+### 301 project: 
 - [Gallery of Horns -Netlify page](https://main--qilin-qallery-of-horns.netlify.app/)
 - [Qilin's portfolio with React - Netlify page](https://main--qilin-react-portfolio.netlify.app/)
 - [City Explorer with Geo map - lab6, week2 day1](https://city-explorer-class6.netlify.app/)
-- 301 Group project: [GeoQuester scavenger hunt app](https://main--geo-quester.netlify.app/) and [server](https://backend-qdhy.onrender.com/lists)
+- [GeoQuester scavenger hunt app](https://main--geo-quester.netlify.app/) & [server](https://backend-qdhy.onrender.com/lists) (301 Group project)
 
+### 401 project: 
+- [IceCream server project](https://github.com/QILINXIE02/API-Auth-server)
+- [AWS series cloud-server](https://github.com/QILINXIE02/cloud-server)& [AWS image-lambda](https://github.com/QILINXIE02/image-lambda) & [AWS serverless](https://github.com/QILINXIE02/serverless-api) & [AWS caps-cloud](https://github.com/QILINXIE02/caps-cloud)
+- Midterm team project with Pico/micropython: [README](https://github.com/QEA-Javascript/AmbientWeather)
+- 401 to-do-app how to use: [README](https://github.com/QILINXIE02/todo-app/blob/main/README.md) 
+- [To-do-App front end](https://qilin-todo.netlify.app/) (login with Administrator, admin) & [backend server](https://auth-api-todo.onrender.com/api/v1/todos)
+- [RESTy app](https://qilin-resty.netlify.app/)(works like thunder-client on VS code) GET, POST, PUT, DELETE with the right permissions
 ----------------------------------
 ## Table of Contents of Code 401 - Advanced Software Development (Full Stack JS)
 Module 01: Express, REST APIs and TDD
@@ -136,4 +151,4 @@ Prep reading assignments:
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="qilinxie" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qilinxie?trk=profile-badge">Qilin Xie</a></div>
               
 
-Updated 4/29/2024 8:40 am PST
+Updated 6/13/2024 10:15am PST
