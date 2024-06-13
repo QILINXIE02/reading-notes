@@ -4,6 +4,7 @@ This website documents my growth during the Code Fellows Software Development pr
 
 --------------------------------------
 [DSA -Data Structures and Algorithms Javascript](https://github.com/QILINXIE02/data-structures-and-algorithms)
+
 --------------------------------------
 ### Personal site: 
 - [About Qilin Site](https://qilinxie02.github.io/repo-new/index.html), [Qilin's Resume with Timeline](https://qilinxie02.github.io/resume-timeline/)
@@ -29,7 +30,9 @@ This website documents my growth during the Code Fellows Software Development pr
 - Midterm team project with Pico/micropython: [README](https://github.com/QEA-Javascript/AmbientWeather)
 - 401 to-do-app how to use: [README](https://github.com/QILINXIE02/todo-app/blob/main/README.md) 
 - [To-do-App front end](https://qilin-todo.netlify.app/) (login with Administrator, admin) & [backend server](https://auth-api-todo.onrender.com/api/v1/todos)
+
 - [RESTy app](https://qilin-resty.netlify.app/)(works like thunder-client on VS code) GET, POST, PUT, DELETE with the right permissions
+
 ----------------------------------
 ## Table of Contents of Code 401 - Advanced Software Development (Full Stack JS)
 Module 01: Express, REST APIs and TDD
@@ -151,4 +154,4 @@ Prep reading assignments:
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="qilinxie" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qilinxie?trk=profile-badge">Qilin Xie</a></div>
               
 
-Updated 6/13/2024 10:15am PST
+Updated 6/13/2024 2:45pm PST
