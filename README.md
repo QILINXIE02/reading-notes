@@ -30,8 +30,53 @@ This website documents my growth during the Code Fellows Software Development pr
 - Midterm team project with Pico/micropython: [README](https://github.com/QEA-Javascript/AmbientWeather)
 - 401 to-do-app how to use: [README](https://github.com/QILINXIE02/todo-app/blob/main/README.md) 
 - [To-do-App front end](https://qilin-todo.netlify.app/) (login with Administrator, admin) & [backend server](https://auth-api-todo.onrender.com/api/v1/todos)
+- [Storefront app](https://main--qilin-storefront.netlify.app/) with [db](https://api-js401.herokuapp.com/api/v1/products/)
 
-- [RESTy app](https://qilin-resty.netlify.app/)(works like thunder-client on VS code) GET, POST, PUT, DELETE with the right permissions
+--------------------------------------
+
+## Table of Contents of Code 102: Intro to Software Development
+- [First Reading Note](102/class1.md)
+- [Second Reading Note](102/class2.md)
+- [Third Reading Note](102/class3.md)
+- [Fourth Reading Note](102/class4.md)
+- [Fifth Reading Note](102/class5.md)
+- [Sixth Reading Note](102/class6.md)
+- [Seventh Reading Note](102/class7.md)
+- [Eighth Reading Note](102/class8.md)
+
+## Table of Contents of Code 201: Foundations of Software Development
+- [First Reading Note](201/class1.md)
+- [Second Reading Note](201/class2.md)
+- [Third Reading Note](201/class3.md)
+- [Fourth Reading Note](201/class4.md)
+- [Fifth Reading Note](201/class5.md)
+- [Sixth Reading Note](201/class6.md)
+- [Seventh Reading Note](201/class7.md)
+- [Eighth Reading Note](201/class8.md)
+- [Ninth Reading Note](201/class9.md)
+- [Tenth Reading Note](201/class10.md)
+- [Eleventh Reading Note](201/class11.md)
+- [Twelfth Reading Note](201/class12.md)
+- [Thirteenth Reading Note](201/class13.md)
+- [Fourteenth Reading Note](201/class14.md)
+- [Fourteenth #2 Reading Note](201/Class14:Psychological-Safety.md)
+
+## Table of Contents of Code 301 - Intermediate Software Development
+- [First Reading Note](301/class1.md)
+- [Second Reading Note](301/class2.md)
+- [Third Reading Note](301/class3.md)
+- [Fourth Reading Note](301/class4.md)
+- [Fifth Reading Note](301/class5.md)
+- [Sixth Reading Note](301/class6.md)
+- [Seventh Reading Note](301/class7.md)
+- [Eighth Reading Note](301/class8.md)
+- [Ninth Reading Note](301/class9.md)
+- [Tenth Reading Note](301/class10.md)
+- [Eleventh Reading Note](301/class11.md)
+- [Twelfth Reading Note](301/class12.md)
+- [Thirteen Reading Note](301/class13.md)
+- [Fourteenth Reading Note](301/class14.md)
+- [Fifteenth Reading Note](301/class15.md)
 
 ----------------------------------
 ## Table of Contents of Code 401 - Advanced Software Development (Full Stack JS)
@@ -97,51 +142,6 @@ Prep reading assignments:
 
 ---------------------------------
 
-## Table of Contents of Code 102: Intro to Software Development
-- [First Reading Note](102/class1.md)
-- [Second Reading Note](102/class2.md)
-- [Third Reading Note](102/class3.md)
-- [Fourth Reading Note](102/class4.md)
-- [Fifth Reading Note](102/class5.md)
-- [Sixth Reading Note](102/class6.md)
-- [Seventh Reading Note](102/class7.md)
-- [Eighth Reading Note](102/class8.md)
-
-## Table of Contents of Code 201: Foundations of Software Development
-- [First Reading Note](201/class1.md)
-- [Second Reading Note](201/class2.md)
-- [Third Reading Note](201/class3.md)
-- [Fourth Reading Note](201/class4.md)
-- [Fifth Reading Note](201/class5.md)
-- [Sixth Reading Note](201/class6.md)
-- [Seventh Reading Note](201/class7.md)
-- [Eighth Reading Note](201/class8.md)
-- [Ninth Reading Note](201/class9.md)
-- [Tenth Reading Note](201/class10.md)
-- [Eleventh Reading Note](201/class11.md)
-- [Twelfth Reading Note](201/class12.md)
-- [Thirteenth Reading Note](201/class13.md)
-- [Fourteenth Reading Note](201/class14.md)
-- [Fourteenth #2 Reading Note](201/Class14:Psychological-Safety.md)
-
-## Table of Contents of Code 301 - Intermediate Software Development
-- [First Reading Note](301/class1.md)
-- [Second Reading Note](301/class2.md)
-- [Third Reading Note](301/class3.md)
-- [Fourth Reading Note](301/class4.md)
-- [Fifth Reading Note](301/class5.md)
-- [Sixth Reading Note](301/class6.md)
-- [Seventh Reading Note](301/class7.md)
-- [Eighth Reading Note](301/class8.md)
-- [Ninth Reading Note](301/class9.md)
-- [Tenth Reading Note](301/class10.md)
-- [Eleventh Reading Note](301/class11.md)
-- [Twelfth Reading Note](301/class12.md)
-- [Thirteen Reading Note](301/class13.md)
-- [Fourteenth Reading Note](301/class14.md)
-- [Fifteenth Reading Note](301/class15.md)
-
---------------------------------------
 **Contact Info**:
 - [Linkedin](https://www.linkedin.com/in/qilinxie/)
 - [Github](https://github.com/QILINXIE02)
@@ -154,4 +154,4 @@ Prep reading assignments:
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="qilinxie" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qilinxie?trk=profile-badge">Qilin Xie</a></div>
               
 
-Updated 6/13/2024 2:45pm PST
+Updated 6/21/2024 10:25am PST
