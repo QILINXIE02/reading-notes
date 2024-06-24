@@ -145,7 +145,8 @@ Prep reading assignments:
 **Contact Info**:
 - [Linkedin](https://www.linkedin.com/in/qilinxie/)
 - [Github](https://github.com/QILINXIE02)
-fef f
+-----
+
 
 >My favorite quote:
 >>A friend once said, "You can't get so hung up on where you'd rather be that you forget to make the most of where you are."
