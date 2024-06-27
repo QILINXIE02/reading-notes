@@ -31,6 +31,7 @@ This website documents my growth during the Code Fellows Software Development pr
 - 401 to-do-app how to use: [README](https://github.com/QILINXIE02/todo-app/blob/main/README.md) 
 - [To-do-App front end](https://qilin-todo.netlify.app/) (login with Administrator, admin) & [backend server](https://auth-api-todo.onrender.com/api/v1/todos)
 - [Storefront app](https://main--qilin-storefront.netlify.app/) with [db](https://api-js401.herokuapp.com/api/v1/products/)
+- [Flower Bouquet Customizer App](https://github.com/QILINXIE02/Flower-app)- you can find screenshots of the app in my README
 
 --------------------------------------
 
@@ -140,8 +141,6 @@ Prep reading assignments:
 - [Engineering reading](401/Engineering.md)
 - [Data structures and Algorithmns Matter](401/Data.md)
 
----------------------------------fef
-
 **Contact Info**:
 - [Linkedin](https://www.linkedin.com/in/qilinxie/)
 - [Github](https://github.com/QILINXIE02)
@@ -156,4 +155,4 @@ Prep reading assignments:
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="qilinxie" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/qilinxie?trk=profile-badge">Qilin Xie</a></div>
               
 
-Updated 6/21/2024 10:25am PST
+Updated 6/27/2024 4:12pm PST
