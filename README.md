@@ -10,7 +10,7 @@ This website documents my growth during the Code Fellows Software Development pr
 ---
 
 ### Personal Site:
-- [About Qilin Site](https://qilinxie02.github.io/repo-new/index.html)
+- [About Qilin Site](https://qilinxie02.github.io/About-Qilin-Site/index.html)
 - [Qilin's Resume with Timeline](https://qilinxie02.github.io/resume-timeline/)
 - [Qilin's Occupation Split Landing Page](https://qilinxie02.github.io/resume/)
 - [Income and Expenses Tracker](https://qilinxie02.github.io/funnize/)
