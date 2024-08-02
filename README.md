@@ -9,6 +9,12 @@ This website documents my growth during the Code Fellows Software Development pr
 
 ---
 
+## Postgrad:
+- [Advice and Joke Generator](https://qilin-generator-app.netlify.app/)
+- [Currency Exchange app](https://qilin-currency-exchange.netlify.app/)
+- [Interactive Calendar](https://effervescent-puppy-4c9d34.netlify.app/)
+
+
 ### Personal Site:
 - [About Qilin Site](https://qilinxie02.github.io/About-Qilin-Site/index.html)
 - [Qilin's Resume with Timeline](https://qilinxie02.github.io/resume-timeline/)
